@@ -1,0 +1,4 @@
+INFO: Starting application
+ERROR: Failed to load configuration
+INFO: Application running
+ERROR: Null pointer exception

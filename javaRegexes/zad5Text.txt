@@ -1,0 +1,11 @@
+.gitignore
+.idea
+javaRegexes.iml
+out
+replaced.txt
+src
+zad1Text.txt
+zad2Text.txt
+zad3Text.txt
+zad4Text.txt
+zad5Text.txt
